@@ -1,0 +1,125 @@
+.aa{
+    background-color:rgb(7, 7, 102);
+    font-family: 'Times New Roman', Times, serif;
+    height: 100px;
+    width: 98.7% ;
+    color: white;
+    font-size:19px;
+   
+}
+.bb{
+    background: linear-gradient(rgba(4, 4, 5, 0.2),rgba(8, 8, 8, 0.2)),url("../images/tech.jpg") no-repeat;
+    background-size: cover;
+    height: 650px;
+  
+    background-attachment: fixed;
+  
+    background-position:  center center;
+}
+ul{
+    display: inline-block;
+    color: white;
+   float: right;
+}
+li{
+     margin-left: 50px;
+    display: inline-block;
+    
+
+ 
+}
+li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    
+}
+li a:hover{
+    background-color:red;
+}
+.logo{
+    padding-top: 30px;
+    padding-left: 50px;
+ 
+}
+.cc{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 800;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 60px;
+    margin:30px;
+
+}
+.dd{
+    font-size: 35px;
+    padding:15px;
+    
+}
+.ee{
+    font-size: 35px;
+    
+}
+.ff{
+    background-color: rgba(31, 48, 206, 0.651);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    border: navy;
+    float: center;
+    margin: 500px;
+    margin-top: 40px;
+    size: 300px;
+    height: 46px;
+    width: 300px;
+    background-attachment: fixed;
+}
+.hh{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(2, 2, 90);
+    margin: 150px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:1024px){
+    .aa{
+        background-color:navy;
+        font-family: 'Times New Roman', Times, serif;
+        height: 100px;
+        width: 100% ;
+        color: white;
+        font-size:10px;
+       
+    }
+    li{
+        margin-left: 4px;
+       display: inline-block;
+      
+   }
+}
